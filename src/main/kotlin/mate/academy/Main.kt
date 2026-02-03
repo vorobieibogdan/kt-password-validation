@@ -2,7 +2,6 @@ package mate.academy
 
 import mate.academy.service.UserService
 
-// Test the UserService implementation
 fun main() {
     val userService = UserService()
 

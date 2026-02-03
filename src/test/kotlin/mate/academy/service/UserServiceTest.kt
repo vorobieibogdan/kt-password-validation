@@ -50,3 +50,4 @@ class UserServiceTest {
         assertEquals("User testUser saved successfully.", result)
     }
 }
+
